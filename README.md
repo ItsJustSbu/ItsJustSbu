@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsJustSbu
+- 👀 I’m interested in data science, Algorithm design, Artificial Intelligence, Machine Learning
+- 🌱 I’m currently learning Machine Learning
+- 📫 reach me at sibusisomfana79@gmail.com / IG:@everybodylovessbu
