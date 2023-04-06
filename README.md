@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a short course web application**
 
-- 💬 Ask me about **react(I am a reactivist)**
+- 💬 Ask me about **react (I am a reactivist)**
 
 - 📫 How to reach me **sibusisomfana79@gmail.com**
 
