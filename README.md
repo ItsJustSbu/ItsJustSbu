@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react (I am a reactivist)**
 
-- 📫 How to reach me **sibusisomfana79@gmail.com**
+- 📫 How to reach me **sibusisomfana79@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KbIiqeDnMBTZGzWgfgLEJVV4Zd1qZauY/view?usp=share_link](https://drive.google.com/file/d/1KbIiqeDnMBTZGzWgfgLEJVV4Zd1qZauY/view?usp=share_link)
 
