@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sibusiso Mfana</h1>
-<h3 align="center">A final year computer science student from the university of the Witwatersrand</h3>
+<h3 align="center">A Cloud Engineer at Synthesis Software Technologies</h3>
 
 - 🔭 I’m currently working on **an NFC Virtual Smart Card Application for Synthesis Software Technologies**
 
-- 💬 Ask me about **react (I am a reactivist)**
+- 💬 Ask me about **NextJS and Typescript (I am a Nextivist)**
 
 - 🖇️ Currently Building a startup called **CarKulture**
 
