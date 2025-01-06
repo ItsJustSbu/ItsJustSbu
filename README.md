@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **NextJS and Typescript (I am a Nextivist)**
 
-- 🖇️ Currently Building a startup called **CarKulture**
-
 - 📫 How to reach me **sibusisomfana79@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
